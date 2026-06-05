@@ -39,13 +39,13 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 
 ## 📁 Projects
 
-| Project | Description | Tools |
-|---|---|---|
-| 🔜 [tcmb-inflation-analysis](https://github.com/pars1905/tcmb-inflation-analysis) | Turkey inflation & exchange rate time series analysis using TCMB data | Python · pandas · matplotlib |
-| 🔜 [ipard-regional-impact](https://github.com/pars1905/ipard-regional-impact) | Regional economic impact analysis of EU IPA/IPARD funded programmes | Python · geopandas · seaborn |
-| 🔜 [financial-volatility-analysis](https://github.com/pars1905/financial-volatility-analysis) | BIST & TEFAS fund volatility, Sharpe ratio & risk-adjusted return analysis | Python · pandas · numpy |
-| 🔜 [eu-green-deal-projection](https://github.com/pars1905/eu-green-deal-projection) | Sustainability data analysis aligned with GRI/CSRD frameworks | Python · plotly |
-| 🔜 [google-da-capstone](https://github.com/pars1905/google-da-capstone) | Google Data Analytics Professional Certificate capstone case study | Python · R · Tableau |
+| Project | Description | Tools | Status |
+|---|---|---|---|
+| ✅ [tcmb-inflation-analysis](https://github.com/pars1905/tcmb-inflation-analysis) | Turkey inflation & exchange rate time series analysis using TCMB data | Python · pandas · matplotlib | **Completed** |
+| 🔜 [ipard-regional-impact](https://github.com/pars1905/ipard-regional-impact) | Regional economic impact analysis of EU IPA/IPARD funded programmes | Python · geopandas · seaborn | In Progress |
+| 🔜 [financial-volatility-analysis](https://github.com/pars1905/financial-volatility-analysis) | BIST & TEFAS fund volatility, Sharpe ratio & risk-adjusted return analysis | Python · pandas · numpy | In Progress |
+| 🔜 [eu-green-deal-projection](https://github.com/pars1905/eu-green-deal-projection) | Sustainability data analysis aligned with GRI/CSRD frameworks | Python · plotly | In Progress |
+| 🔜 [google-da-capstone](https://github.com/pars1905/google-da-capstone) | Google Data Analytics Professional Certificate capstone case study | Python · R · Tableau | In Progress |
 
 ---
 
