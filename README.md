@@ -37,6 +37,18 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 
 ---
 
+## 📁 Projects
+
+| Project | Description | Tools |
+|---|---|---|
+| 🔜 [tcmb-inflation-analysis](https://github.com/pars1905/tcmb-inflation-analysis) | Turkey inflation & exchange rate time series analysis using TCMB data | Python · pandas · matplotlib |
+| 🔜 [ipard-regional-impact](https://github.com/pars1905/ipard-regional-impact) | Regional economic impact analysis of EU IPA/IPARD funded programmes | Python · geopandas · seaborn |
+| 🔜 [financial-volatility-analysis](https://github.com/pars1905/financial-volatility-analysis) | BIST & TEFAS fund volatility, Sharpe ratio & risk-adjusted return analysis | Python · pandas · numpy |
+| 🔜 [eu-green-deal-projection](https://github.com/pars1905/eu-green-deal-projection) | Sustainability data analysis aligned with GRI/CSRD frameworks | Python · plotly |
+| 🔜 [google-da-capstone](https://github.com/pars1905/google-da-capstone) | Google Data Analytics Professional Certificate capstone case study | Python · R · Tableau |
+
+---
+
 ## 📜 Certifications
 
 | Certificate | Issuer | Year |
@@ -50,20 +62,6 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 | 🟡 Financial Markets | Yale University / Coursera | 2020 ✅ |
 | 🟡 Microeconomics Principles | Stanford University / Coursera | 2023 ✅ |
 | 🟡 KVKK / GDPR Data Protection | BTK Akademi | 2024 ✅ |
-
----
-
-## 📁 Projects
-
-> 🚧 Projects are being added — check back soon!
-
-| Project | Description | Tools |
-|---|---|---|
-| 🔜 netflix-analysis | Exploratory data analysis on Netflix dataset | Python · pandas · seaborn |
-| 🔜 sales-dashboard | Sales KPI dashboard with SQL and Power BI | SQL · Power BI |
-| 🔜 covid-visualization | Time series visualization of COVID-19 data | matplotlib · plotly |
-| 🔜 customer-churn | Churn prediction model | Python · scikit-learn |
-| 🔜 capstone-project | Google DA Capstone case study | Python · R |
 
 ---
 
