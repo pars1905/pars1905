@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Osman Manay 👋</h1>
 
 <p align="center">
-  <b>Applied Economist · Data Analyst · AI Analytics</b><br>
+  <b>Applied Economist · Data Analyst · Financial Modeler · AI Analytics</b><br>
   Bursa, Turkey &nbsp;|&nbsp; Remote – EMEA &nbsp;|&nbsp; Open to Remote Opportunities
 </p>
 
@@ -21,7 +21,7 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 - 🤖 Currently working as **AI Domain Expert (Finance & Legal)** at Mercor
 - 📊 Passionate about turning complex datasets into actionable insights
 - 🌍 Specialized in **EU regulatory frameworks**, financial KPIs, and economic policy
-- 💻 Open to **remote data analyst** and **applied economics** roles globally
+- 💻 Open to **remote data analyst**, **financial analyst** and **applied economics** roles globally
 
 ---
 
@@ -30,6 +30,7 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 | Category | Tools |
 |---|---|
 | **Data Analysis** | Python · pandas · numpy · SQL |
+| **Financial Modeling** | DCF · LBO · EV/EBITDA · Monte Carlo · Sensitivity Analysis |
 | **Visualization** | matplotlib · seaborn · Power BI · Excel |
 | **Economics** | Econometric modeling · Time series · Sharpe ratio · Financial KPIs |
 | **AI & LLM** | GPT/LLM-assisted analytics · Prompt engineering · AI annotation |
@@ -42,6 +43,8 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 | Project | Description | Tools | Status |
 |---|---|---|---|
 | ✅ [tcmb-inflation-analysis](https://github.com/pars1905/tcmb-inflation-analysis) | Turkey inflation & exchange rate time series analysis using TCMB data | Python · pandas · matplotlib | **Completed** |
+| ✅ [tarkim-dcf-valuation](https://github.com/pars1905/tarkim-dcf-valuation) | Tarkim (TARKM.IS) DCF, EV/EBITDA & Monte Carlo valuation — BIST | Python · yfinance · seaborn | **Completed** |
+| ✅ [tesla-dcf-valuation](https://github.com/pars1905/tesla-dcf-valuation) | Tesla (TSLA) DCF intrinsic value model with sensitivity analysis | Python · pandas · numpy | **Completed** |
 | 🔜 [ipard-regional-impact](https://github.com/pars1905/ipard-regional-impact) | Regional economic impact analysis of EU IPA/IPARD funded programmes | Python · geopandas · seaborn | In Progress |
 | 🔜 [financial-volatility-analysis](https://github.com/pars1905/financial-volatility-analysis) | BIST & TEFAS fund volatility, Sharpe ratio & risk-adjusted return analysis | Python · pandas · numpy | In Progress |
 | 🔜 [eu-green-deal-projection](https://github.com/pars1905/eu-green-deal-projection) | Sustainability data analysis aligned with GRI/CSRD frameworks | Python · plotly | In Progress |
