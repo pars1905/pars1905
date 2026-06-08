@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:osman_manay@hotmail.com">📧 Email</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/osman-m-48b3171ba/">💼 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/osman-manay-48b3171ba">💼 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://github.com/pars1905">🐙 GitHub</a>
 </p>
 
@@ -33,22 +33,34 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 | **Financial Modeling** | DCF · LBO · EV/EBITDA · Monte Carlo · Sensitivity Analysis |
 | **Visualization** | matplotlib · seaborn · Power BI · Excel |
 | **Economics** | Econometric modeling · Time series · Sharpe ratio · Financial KPIs |
-| **AI & LLM** | GPT/LLM-assisted analytics · Prompt engineering · AI annotation |
+| **AI & LLM** | GPT/LLM-assisted analytics · RLHF · Prompt engineering · AI annotation |
+| **Web** | Web design & development |
 | **Other** | EU Funds compliance · Risk classification · Audit methodologies |
 
 ---
 
 ## 📁 Projects
 
-| Project | Description | Tools | Status |
-|---|---|---|---|
-| ✅ [tcmb-inflation-analysis](https://github.com/pars1905/tcmb-inflation-analysis) | Turkey inflation & exchange rate time series analysis using TCMB data | Python · pandas · matplotlib | **Completed** |
-| ✅ [tarkim-dcf-valuation](https://github.com/pars1905/tarkim-dcf-valuation) | Tarkim (TARKM.IS) DCF, EV/EBITDA & Monte Carlo valuation — BIST | Python · yfinance · seaborn | **Completed** |
-| ✅ [tesla-dcf-valuation](https://github.com/pars1905/tesla-dcf-valuation) | Tesla (TSLA) DCF intrinsic value model with sensitivity analysis | Python · pandas · numpy | **Completed** |
-| 🔜 [ipard-regional-impact](https://github.com/pars1905/ipard-regional-impact) | Regional economic impact analysis of EU IPA/IPARD funded programmes | Python · geopandas · seaborn | In Progress |
-| 🔜 [financial-volatility-analysis](https://github.com/pars1905/financial-volatility-analysis) | BIST & TEFAS fund volatility, Sharpe ratio & risk-adjusted return analysis | Python · pandas · numpy | In Progress |
-| 🔜 [eu-green-deal-projection](https://github.com/pars1905/eu-green-deal-projection) | Sustainability data analysis aligned with GRI/CSRD frameworks | Python · plotly | In Progress |
-| 🔜 [google-da-capstone](https://github.com/pars1905/google-da-capstone) | Google Data Analytics Professional Certificate capstone case study | Python · R · Tableau | In Progress |
+### ✅ Completed
+
+| Project | Description | Tools |
+|---|---|---|
+| ✅ [tcmb-inflation-analysis](https://github.com/pars1905/tcmb-inflation-analysis) | Turkey inflation & exchange rate time series analysis using TCMB data | Python · pandas · matplotlib |
+| ✅ [tarkim-dcf-valuation](https://github.com/pars1905/tarkim-dcf-valuation) | Tarkim (TARKM.IS) DCF, EV/EBITDA & Monte Carlo valuation — BIST | Python · yfinance · seaborn |
+| ✅ [tesla-dcf-valuation](https://github.com/pars1905/tesla-dcf-valuation) | Tesla (TSLA) DCF intrinsic value model with sensitivity analysis | Python · pandas · numpy |
+| ✅ [ai-finance-domain-expert](https://github.com/pars1905/ai-finance-domain-expert) | Amazon-backed LLM training — Finance & Legal domain expert via Mercor | RLHF · AI Evaluation |
+| ✅ [ankaeğitim-web-consultancy](https://github.com/pars1905/ankaeğitim-web-consultancy) | Website design & data analytics consultancy for ankaeğitim.com.tr | Web Design · Analytics |
+
+### 🔜 In Progress
+
+| Project | Description | Tools |
+|---|---|---|
+| 🔜 [tesla-lbo-analysis](https://github.com/pars1905/tesla-lbo-analysis) | Tesla LBO model — debt schedule, IRR, MOIC, exit analysis | Python · pandas · numpy |
+| 🔜 [tarkim-lbo-analysis](https://github.com/pars1905/tarkim-lbo-analysis) | Tarkim LBO feasibility — BIST emerging market case | Python · yfinance |
+| 🔜 [financial-volatility-analysis](https://github.com/pars1905/financial-volatility-analysis) | BIST & TEFAS fund volatility, Sharpe ratio & risk-adjusted returns | Python · pandas · numpy |
+| 🔜 [eur-tl-forecast-2026-2031](https://github.com/pars1905/eur-tl-forecast-2026-2031) | EUR/TRY parity forecast 2026–2031 using macro modeling | Python · statsmodels |
+| 🔜 [eu-green-deal-projection](https://github.com/pars1905/eu-green-deal-projection) | Sustainability data analysis aligned with GRI/CSRD frameworks | Python · plotly |
+| 🔜 [google-da-capstone](https://github.com/pars1905/google-da-capstone) | Google Data Analytics Professional Certificate capstone case study | Python · R · Tableau |
 
 ---
 
@@ -72,6 +84,7 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 
 ```
 2026–Present   AI Domain Expert (Finance & Legal)     Mercor
+2026           Web Designer & Data Analytics Consultant  Anka Eğitim
 2018–2026      Senior Audit & Control Expert           TKDK (EU Funds / IPA / IPARD)
 2015–2018      Data Quality & Control Officer          General Directorate of Highways (KGM)
 2010–2015      Research & Analysis Roles               YTB
