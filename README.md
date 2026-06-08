@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:osman_manay@hotmail.com">📧 Email</a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/osman-manay-48b3171ba">💼 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="(https://www.linkedin.com/in/osman-m-48b3171ba/)">💼 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://github.com/pars1905">🐙 GitHub</a>
 </p>
 
