@@ -50,7 +50,7 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 | ✅ [tesla-dcf-valuation](https://github.com/pars1905/tesla-dcf-valuation) | Tesla (TSLA) DCF intrinsic value model with sensitivity analysis | Python · pandas · numpy |
 | ✅ [ai-finance-domain-expert](https://github.com/pars1905/ai-finance-domain-expert) | Amazon-backed LLM training — Finance & Legal domain expert via Mercor | RLHF · AI Evaluation |
 | ✅ [ai-economics-expert-mercor](https://github.com/pars1905/ai-economics-expert-mercor) | Confidential client LLM training — Finance & Economics domain expert via Mercor | RLHF · AI Evaluation |
-| ✅ [ankaeğitim-web-consultancy](https://github.com/pars1905/ankaeğitim-web-consultancy) | Website design & data analytics consultancy for ankaeğitim.com.tr | Web Design · Analytics |
+| ✅ [ankae-itim-web-consultancy](https://github.com/pars1905/ankaeğitim-web-consultancy) | Website design & data analytics consultancy for ankaeğitim.com.tr | Web Design · Analytics |
 
 ### 🔜 In Progress
 
