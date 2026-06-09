@@ -48,15 +48,15 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 | ✅ [tcmb-inflation-analysis](https://github.com/pars1905/tcmb-inflation-analysis) | Turkey inflation & exchange rate time series analysis using TCMB data | Python · pandas · matplotlib |
 | ✅ [tarkim-dcf-valuation](https://github.com/pars1905/tarkim-dcf-valuation) | Tarkim (TARKM.IS) DCF, EV/EBITDA & Monte Carlo valuation — BIST | Python · yfinance · seaborn |
 | ✅ [tesla-dcf-valuation](https://github.com/pars1905/tesla-dcf-valuation) | Tesla (TSLA) DCF intrinsic value model with sensitivity analysis | Python · pandas · numpy |
+| ✅ [tesla-lbo-analysis](https://github.com/pars1905/tesla-lbo-analysis) | Tesla LBO model — debt schedule, IRR/MOIC, exit analysis | Python · pandas · numpy |
 | ✅ [ai-finance-domain-expert](https://github.com/pars1905/ai-finance-domain-expert) | Amazon-backed LLM training — Finance & Legal domain expert via Mercor | RLHF · AI Evaluation |
 | ✅ [ai-economics-expert-mercor](https://github.com/pars1905/ai-economics-expert-mercor) | Confidential client LLM training — Finance & Economics domain expert via Mercor | RLHF · AI Evaluation |
-| ✅ [ankae-itim-web-consultancy](https://github.com/pars1905/ankaeğitim-web-consultancy) | Website design & data analytics consultancy for ankaeğitim.com.tr | Web Design · Analytics |
+| ✅ [ankaeğitim-web-consultancy](https://github.com/pars1905/ankaeğitim-web-consultancy) | Website design & data analytics consultancy for ankaeğitim.com.tr | Web Design · Analytics |
 
 ### 🔜 In Progress
 
 | Project | Description | Tools |
 |---|---|---|
-| 🔜 [tesla-lbo-analysis](https://github.com/pars1905/tesla-lbo-analysis) | Tesla LBO model — debt schedule, IRR, MOIC, exit analysis | Python · pandas · numpy |
 | 🔜 [tarkim-lbo-analysis](https://github.com/pars1905/tarkim-lbo-analysis) | Tarkim LBO feasibility — BIST emerging market case | Python · yfinance |
 | 🔜 [financial-volatility-analysis](https://github.com/pars1905/financial-volatility-analysis) | BIST & TEFAS fund volatility, Sharpe ratio & risk-adjusted returns | Python · pandas · numpy |
 | 🔜 [eur-tl-forecast-2026-2031](https://github.com/pars1905/eur-tl-forecast-2026-2031) | EUR/TRY parity forecast 2026–2031 using macro modeling | Python · statsmodels |
@@ -70,6 +70,7 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 | Certificate | Issuer | Year |
 |---|---|---|
 | 🟡 Google Data Analytics Professional Certificate | Google / Coursera | 2026 (In Progress) |
+| 🟢 Ask Questions to Make Data-Driven Decisions | Google / Coursera | Jun 2026 ✅ |
 | 🟢 Foundations: Data, Data, Everywhere | Google / Coursera | Mar 2026 ✅ |
 | 🔵 Claude 101 | Anthropic | 2026 ✅ |
 | 🔵 TryHackMe | TryHackMe | 2026 ✅ |
