@@ -18,7 +18,7 @@
 Results-driven Applied Economist and Data Analyst with **15+ years of experience** in macroeconomic policy evaluation, quantitative modeling, and EU-funded development programmes. Currently transitioning into data analytics and AI-driven roles, combining deep domain expertise with modern data science tools.
 
 - 🏛️ Former **Senior Audit & Control Expert** — EU Funds (IPA/IPARD) at TKDK (2018–2026)
-- 🤖 Currently working as **AI Domain Expert (Finance & Legal)** at Mercor
+- 🤖 Currently working as Contractor **AI Domain Expert (Finance & Legal)** at Mercor
 - 📊 Passionate about turning complex datasets into actionable insights
 - 🌍 Specialized in **EU regulatory frameworks**, financial KPIs, and economic policy
 - 💻 Open to **remote data analyst**, **financial analyst** and **applied economics** roles globally
