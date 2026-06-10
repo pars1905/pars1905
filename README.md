@@ -31,10 +31,10 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 |---|---|
 | **Data Analysis** | Python · pandas · numpy · SQL |
 | **Financial Modeling** | DCF · LBO · EV/EBITDA · Monte Carlo · Sensitivity Analysis |
-| **Visualization** | matplotlib · seaborn · Power BI · Excel |
+| **Visualization** | matplotlib · seaborn · Power BI · Tableau |
 | **Economics** | Econometric modeling · Time series · Sharpe ratio · Financial KPIs |
 | **AI & LLM** | GPT/LLM-assisted analytics · RLHF · Prompt engineering · AI annotation |
-| **Web** | Web design & development |
+| **Web & Mobile** | Web design & development · Android (APK) |
 | **Other** | EU Funds compliance · Risk classification · Audit methodologies |
 
 ---
@@ -43,24 +43,26 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 
 ### ✅ Completed
 
-| Project | Description | Tools |
+| Project | Key Insight | Tools |
 |---|---|---|
-| ✅ [tcmb-inflation-analysis](https://github.com/pars1905/tcmb-inflation-analysis) | Turkey inflation & exchange rate time series analysis using TCMB data | Python · pandas · matplotlib |
-| ✅ [tarkim-dcf-valuation](https://github.com/pars1905/tarkim-dcf-valuation) | Tarkim (TARKM.IS) DCF, EV/EBITDA & Monte Carlo valuation — BIST | Python · yfinance · seaborn |
-| ✅ [tesla-dcf-valuation](https://github.com/pars1905/tesla-dcf-valuation) | Tesla (TSLA) DCF intrinsic value model with sensitivity analysis | Python · pandas · numpy |
-| ✅ [tesla-lbo-analysis](https://github.com/pars1905/tesla-lbo-analysis) | Tesla LBO model — debt schedule, IRR/MOIC, exit analysis | Python · pandas · numpy |
-| ✅ [financial-volatility-analysis](https://github.com/pars1905/financial-volatility-analysis) | BIST & TEFAS fund volatility, Sharpe ratio & risk-adjusted returns | Python · pandas · yfinance |
-| ✅ [ai-finance-domain-expert](https://github.com/pars1905/ai-finance-domain-expert) | Amazon-backed LLM training — Finance & Legal domain expert via Mercor | RLHF · AI Evaluation |
-| ✅ [ai-economics-expert-mercor](https://github.com/pars1905/ai-economics-expert-mercor) | Confidential client LLM training — Finance & Economics domain expert via Mercor | RLHF · AI Evaluation |
-| ✅ [ankaeğitim-web-consultancy](https://github.com/pars1905/ankaeğitim-web-consultancy) | Website design & data analytics consultancy for ankaeğitim.com.tr | Web Design · Analytics |
+| ✅ [tcmb-inflation-analysis](https://github.com/pars1905/tcmb-inflation-analysis) | Analyzed Turkey's CPI/PPI surge from 8% to 72% (2015–2022), revealing 0.95+ correlation between USD/TRY depreciation and consumer inflation | Python · pandas · matplotlib |
+| ✅ [tarkim-dcf-valuation](https://github.com/pars1905/tarkim-dcf-valuation) | Valued Tarkim (TARKM.IS) at -65/+10 TRY fair value vs 580 TRY market price, identifying ~5,700% overvaluation driven by speculative IPO momentum | Python · yfinance · seaborn |
+| ✅ [tesla-dcf-valuation](https://github.com/pars1905/tesla-dcf-valuation) | Built Tesla DCF model revealing $67 fair value vs $248 market price, showing 73% premium reflects AI/autonomy optionality not captured by fundamentals | Python · pandas · numpy |
+| ✅ [tesla-lbo-analysis](https://github.com/pars1905/tesla-lbo-analysis) | Modeled Tesla LBO generating 32–47% IRR across scenarios, showing PE returns are viable despite 7.8x Debt/EBITDA entry leverage | Python · pandas · numpy |
+| ✅ [financial-volatility-analysis](https://github.com/pars1905/pars1905-financial-volatility-analysis) | Scored 10 BIST blue-chips on 5-tier risk model; BIMAS.IS delivered only positive Sharpe (1.41) in Turkey's 26% risk-free rate environment | Python · pandas · yfinance |
+| ✅ [ai-finance-domain-expert](https://github.com/pars1905/ai-finance-domain-expert) | Evaluated 100+ AI-generated financial responses weekly, identifying critical hallucination patterns in DCF calculations and EU regulatory misstatements | RLHF · AI Evaluation |
+| ✅ [ai-economics-expert-mercor](https://github.com/pars1905/ai-economics-expert-mercor) | Assessed AI economic reasoning quality across macro, FX, and policy domains for confidential enterprise LLM project | RLHF · AI Evaluation |
+| ✅ [ankaeğitim-web-consultancy](https://github.com/pars1905/ankaeğitim-web-consultancy) | Delivered full website + Android APK (v1.0.0) for education advisory firm; structured student placement tracking framework | Web · Android · Analytics |
 
 ### 🔜 In Progress
 
 | Project | Description | Tools |
 |---|---|---|
+| 🔜 [tcmb-sql-analysis](https://github.com/pars1905/tcmb-sql-analysis) | SQL-based macroeconomic analysis — JOIN, Window Functions, CTEs on TCMB data | SQL · SQLite · Python |
 | 🔜 [tarkim-lbo-analysis](https://github.com/pars1905/tarkim-lbo-analysis) | Tarkim LBO feasibility — BIST emerging market case | Python · yfinance |
 | 🔜 [eur-tl-forecast-2026-2031](https://github.com/pars1905/eur-tl-forecast-2026-2031) | EUR/TRY parity forecast 2026–2031 using macro modeling | Python · statsmodels |
-| 🔜 [eu-green-deal-projection](https://github.com/pars1905/eu-green-deal-projection) | Sustainability data analysis aligned with GRI/CSRD frameworks | Python · plotly |
+| 🔜 [eu-green-deal-projection](https://github.com/pars1905/eu-green-deal-projection) | Sustainability data analysis with Power BI dashboard — GRI/CSRD frameworks | Python · Power BI |
+| 🔜 [customer-churn-analysis](https://github.com/pars1905/customer-churn-analysis) | Customer churn prediction — A/B testing & business metrics analysis | Python · scikit-learn · SQL |
 | 🔜 [google-da-capstone](https://github.com/pars1905/google-da-capstone) | Google Data Analytics Professional Certificate capstone case study | Python · R · Tableau |
 
 ---
@@ -85,11 +87,11 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 ## 💼 Professional Background
 
 ```
-2026–Present   AI Domain Expert (Finance & Legal)     Mercor
-2026           Web Designer & Data Analytics Consultant  Anka Eğitim
-2018–2026      Senior Audit & Control Expert           TKDK (EU Funds / IPA / IPARD)
-2015–2018      Data Quality & Control Officer          General Directorate of Highways (KGM)
-2010–2015      Research & Analysis Roles               YTB
+2026–Present   AI Domain Expert (Finance & Legal)        Mercor
+2026           Web & Mobile Developer · Data Consultant   Anka Eğitim
+2018–2026      Senior Audit & Control Expert              TKDK (EU Funds / IPA / IPARD)
+2015–2018      Data Quality & Control Officer             General Directorate of Highways (KGM)
+2010–2015      Research & Analysis Roles                  YTB
 ```
 
 ---
