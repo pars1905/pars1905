@@ -18,7 +18,7 @@
 Results-driven Applied Economist and Data Analyst with **15+ years of experience** in macroeconomic policy evaluation, quantitative modeling, and EU-funded development programmes. Currently transitioning into data analytics and AI-driven roles, combining deep domain expertise with modern data science tools.
 
 - 🏛️ Former **Senior Audit & Control Expert** — EU Funds (IPA/IPARD) at TKDK (2018–2026)
-- 🤖 Currently working as Contractor **AI Domain Expert (Finance & Legal)** at Mercor
+- 🤖 Currently working as **AI Domain Expert (Finance & Legal)** at Mercor
 - 📊 Passionate about turning complex datasets into actionable insights
 - 🌍 Specialized in **EU regulatory frameworks**, financial KPIs, and economic policy
 - 💻 Open to **remote data analyst**, **financial analyst** and **applied economics** roles globally
@@ -29,7 +29,7 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 
 | Category | Tools |
 |---|---|
-| **Data Analysis** | Python · pandas · numpy · SQL |
+| **Data Analysis** | Python · pandas · numpy · SQL · SQLite |
 | **Financial Modeling** | DCF · LBO · EV/EBITDA · Monte Carlo · Sensitivity Analysis |
 | **Visualization** | matplotlib · seaborn · Power BI · Tableau |
 | **Economics** | Econometric modeling · Time series · Sharpe ratio · Financial KPIs |
@@ -46,6 +46,7 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 | Project | Key Insight | Tools |
 |---|---|---|
 | ✅ [tcmb-inflation-analysis](https://github.com/pars1905/tcmb-inflation-analysis) | Analyzed Turkey's CPI/PPI surge from 8% to 72% (2015–2022), revealing 0.95+ correlation between USD/TRY depreciation and consumer inflation | Python · pandas · matplotlib |
+| ✅ [tcmb-sql-analysis](https://github.com/pars1905/tcmb-sql-analysis) | Built 3-table SQLite database on TCMB data; uncovered TL lost 1,304% vs USD (2015–2025) using JOIN, CTEs, Window Functions & RANK() | SQL · SQLite · Python |
 | ✅ [tarkim-dcf-valuation](https://github.com/pars1905/tarkim-dcf-valuation) | Valued Tarkim (TARKM.IS) at -65/+10 TRY fair value vs 580 TRY market price, identifying ~5,700% overvaluation driven by speculative IPO momentum | Python · yfinance · seaborn |
 | ✅ [tesla-dcf-valuation](https://github.com/pars1905/tesla-dcf-valuation) | Built Tesla DCF model revealing $67 fair value vs $248 market price, showing 73% premium reflects AI/autonomy optionality not captured by fundamentals | Python · pandas · numpy |
 | ✅ [tesla-lbo-analysis](https://github.com/pars1905/tesla-lbo-analysis) | Modeled Tesla LBO generating 32–47% IRR across scenarios, showing PE returns are viable despite 7.8x Debt/EBITDA entry leverage | Python · pandas · numpy |
@@ -58,11 +59,10 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 
 | Project | Description | Tools |
 |---|---|---|
-| 🔜 [tcmb-sql-analysis](https://github.com/pars1905/tcmb-sql-analysis) | SQL-based macroeconomic analysis — JOIN, Window Functions, CTEs on TCMB data | SQL · SQLite · Python |
 | 🔜 [tarkim-lbo-analysis](https://github.com/pars1905/tarkim-lbo-analysis) | Tarkim LBO feasibility — BIST emerging market case | Python · yfinance |
 | 🔜 [eur-tl-forecast-2026-2031](https://github.com/pars1905/eur-tl-forecast-2026-2031) | EUR/TRY parity forecast 2026–2031 using macro modeling | Python · statsmodels |
 | 🔜 [eu-green-deal-projection](https://github.com/pars1905/eu-green-deal-projection) | Sustainability data analysis with Power BI dashboard — GRI/CSRD frameworks | Python · Power BI |
-| 🔜 [customer-churn-analysis](https://github.com/pars1905/customer-churn-analysis) | Customer churn prediction — A/B testing & business metrics analysis | Python · scikit-learn · SQL |
+| 🔜 [customer-churn-analysis](https://github.com/pars1905/customer-churn-analysis) | Customer churn prediction — A/B testing & business metrics | Python · scikit-learn · SQL |
 | 🔜 [google-da-capstone](https://github.com/pars1905/google-da-capstone) | Google Data Analytics Professional Certificate capstone case study | Python · R · Tableau |
 
 ---
