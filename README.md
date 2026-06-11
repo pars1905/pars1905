@@ -31,7 +31,7 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 |---|---|
 | **Data Analysis** | Python · pandas · numpy · SQL · SQLite |
 | **Financial Modeling** | DCF · LBO · EV/EBITDA · Monte Carlo · Sensitivity Analysis |
-| **Forecasting** | ARIMA · Time Series · Scenario Analysis · Regression |
+| **Forecasting** | ARIMA · VAR · OLS Regression · Time Series · Scenario Analysis |
 | **Visualization** | matplotlib · seaborn · Power BI · Tableau |
 | **Economics** | Econometric modeling · Phillips Curve · Sharpe ratio · Financial KPIs |
 | **AI & LLM** | GPT/LLM-assisted analytics · RLHF · Prompt engineering · AI annotation |
@@ -49,6 +49,7 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 | ✅ [tcmb-inflation-analysis](https://github.com/pars1905/tcmb-inflation-analysis) | Analyzed Turkey's CPI/PPI surge from 8% to 72% (2015–2022), revealing 0.95+ correlation between USD/TRY depreciation and consumer inflation | Python · pandas · matplotlib |
 | ✅ [tcmb-sql-analysis](https://github.com/pars1905/tcmb-sql-analysis) | Built 3-table SQLite database on TCMB data; uncovered TL lost 1,304% vs USD (2015–2025) using JOIN, CTEs, Window Functions & RANK() | SQL · SQLite · Python |
 | ✅ [turkey-macro-dashboard](https://github.com/pars1905/turkey-macro-dashboard) | 10-year Turkey macro analysis with ARIMA forecast; modeled 4 geopolitical scenarios showing USD/TRY range of 43–64 by 2027 under Gulf conflict scenarios | Python · statsmodels · ARIMA |
+| ✅ [eur-tl-forecast-2026-2031](https://github.com/pars1905/eur-tl-forecast-2026-2031) | Forecasted EUR/TL to 74–198 TRY by 2031 using ARIMA+VAR+OLS+Monte Carlo; 5 geopolitical scenarios show 143–159 TRY range under war/trade war/stagflation shocks | Python · statsmodels · Monte Carlo |
 | ✅ [tarkim-dcf-valuation](https://github.com/pars1905/tarkim-dcf-valuation) | Valued Tarkim (TARKM.IS) at -65/+10 TRY fair value vs 580 TRY market price, identifying ~5,700% overvaluation driven by speculative IPO momentum | Python · yfinance · seaborn |
 | ✅ [tesla-dcf-valuation](https://github.com/pars1905/tesla-dcf-valuation) | Built Tesla DCF model revealing $67 fair value vs $248 market price, showing 73% premium reflects AI/autonomy optionality not captured by fundamentals | Python · pandas · numpy |
 | ✅ [tesla-lbo-analysis](https://github.com/pars1905/tesla-lbo-analysis) | Modeled Tesla LBO generating 32–47% IRR across scenarios, showing PE returns are viable despite 7.8x Debt/EBITDA entry leverage | Python · pandas · numpy |
@@ -61,7 +62,6 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 
 | Project | Description | Tools |
 |---|---|---|
-| 🔜 [eur-tl-forecast-2026-2031](https://github.com/pars1905/eur-tl-forecast-2026-2031) | EUR/TRY parity forecast 2026–2031 using macro modeling | Python · statsmodels |
 | 🔜 [tarkim-lbo-analysis](https://github.com/pars1905/tarkim-lbo-analysis) | Tarkim LBO feasibility — BIST emerging market case | Python · yfinance |
 | 🔜 [eu-green-deal-projection](https://github.com/pars1905/eu-green-deal-projection) | Sustainability data analysis with Power BI dashboard — GRI/CSRD frameworks | Python · Power BI |
 | 🔜 [customer-churn-analysis](https://github.com/pars1905/customer-churn-analysis) | Customer churn prediction — A/B testing & business metrics | Python · scikit-learn · SQL |
