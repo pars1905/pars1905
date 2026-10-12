@@ -77,7 +77,10 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 | 🟡 Google Data Analytics Professional Certificate | Google / Coursera | 2026 (In Progress) |
 | 🟢 Ask Questions to Make Data-Driven Decisions | Google / Coursera | Jun 2026 ✅ |
 | 🟢 Foundations: Data, Data, Everywhere | Google / Coursera | Mar 2026 ✅ |
+| 🏅 EU Funds Audit & Control Expert | micro1 (AI expert assessment) | Mar 2026 ✅ |
+| 🔵 AI Fluency: Framework & Foundations | Anthropic | 2026 ✅ |
 | 🔵 Claude 101 | Anthropic | 2026 ✅ |
+| 🔵 Enterprise Design Thinking Practitioner | IBM SkillsBuild | Sep 2026 ✅ |
 | 🔵 TryHackMe | TryHackMe | 2026 ✅ |
 | 🟠 Applied AI for Data Analysis | BTK Akademi | 2026 (Expected) |
 | 🟣 Sustainability Reporting Specialist (GRI/CSRD) | — | In Progress |
