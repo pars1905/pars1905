@@ -66,7 +66,6 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 | Project | Description | Tools |
 |---|---|---|
 | 🔜 [eu-green-deal-projection](https://github.com/pars1905/eu-green-deal-projection) | Sustainability data analysis with Power BI dashboard — GRI/CSRD frameworks | Python · Power BI |
-| 🔜 [tarkim-lbo-analysis](https://github.com/pars1905/tarkim-lbo-analysis) | Tarkim LBO feasibility — BIST emerging market case | Python · yfinance |
 | 🔜 [google-da-capstone](https://github.com/pars1905/google-da-capstone) | Google Data Analytics Professional Certificate capstone case study | Python · R · Tableau |
 
 ---
