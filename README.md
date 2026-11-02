@@ -48,6 +48,9 @@ Results-driven Applied Economist and Data Analyst with **15+ years of experience
 
 | Project | Key Insight | Tools |
 |---|---|---|
+| ✅ [incident-investigation-assistant](https://github.com/pars1905/incident-investigation-assistant) | Built an incident triage prototype with evidence-linked hypotheses, live GitHub Actions context, human-approved mock issue creation, and evaluation on 100 synthetic cases | Python · GitHub API · Docker · GitHub Actions |
+| ✅ [invoice-review-assistant](https://github.com/pars1905/invoice-review-assistant) | Reconciles invoice lines with mock purchase orders, flags duplicates and discrepancies, and requires human approval before mock ERP posting; evaluated on 100 synthetic cases | Python · Decimal · PDF text · Docker |
+| ✅ [shipment-intervention-assistant](https://github.com/pars1905/shipment-intervention-assistant) | Ranks shipments using mock order, warehouse, and carrier signals with human-approved tasks; evaluated on 100 synthetic cases | Python · Risk scoring · Docker |
 | ✅ [ecommerce-customer-analytics](https://github.com/pars1905/ecommerce-customer-analytics) | Champions spend 9.3x more than Lost customers; retention crashes to 2.5% after month 1; discounts reduce AOV by $110 (small effect) | Python · scikit-learn · scipy |
 | ✅ [tcmb-inflation-analysis](https://github.com/pars1905/tcmb-inflation-analysis) | Analyzed Turkey's CPI/PPI surge from 8% to 72% (2015–2022), revealing 0.95+ correlation between USD/TRY depreciation and consumer inflation | Python · pandas · matplotlib |
 | ✅ [tcmb-sql-analysis](https://github.com/pars1905/tcmb-sql-analysis) | Built 3-table SQLite database on TCMB data; showed USD/TRY rose ~1,300% (2015–2025), i.e. TL lost ~93% of its value vs USD using JOIN, CTEs, Window Functions & RANK() | SQL · SQLite · Python |
